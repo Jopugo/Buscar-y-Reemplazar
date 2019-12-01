@@ -5,7 +5,7 @@
 	<groupId>dad.javafx</groupId>
 	<artifactId>BuscarReemplazar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CopiarReemplazar</name>
+	<name>BuscarReemplazar</name>
 	<description>Programa que muestra la interfaz clásica de copiar y reemplazar.</description>
 
 	<properties>
